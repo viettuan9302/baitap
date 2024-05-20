@@ -1,0 +1,18 @@
+Các cấu trúc điều khiển: 3 loại cấu trúc
+1. Lựa chọn rẽ nhánh
+1.1: If - 4 dạng
+    a- if dơn
+    b- if đầy đủ
+    c- if bậc thang 
+    d- if lồng nhau
+1.2: Swith
+
+2. Cấu trúc lặp
+2.1- for
+2.2- 
+3. Lệnh nhảy
+    break
+    continue
+    return
+    
+
